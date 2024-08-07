@@ -1,4 +1,4 @@
-### 👋 Olá, mundo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+World!+My+name+is+Marlon)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-santos-1b22a8312/)
 
