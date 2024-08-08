@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+World!+My+name+is+Marlon.;I'm+25+years+old.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&width=435&lines=Hello%2C+world!+My+name+is+Marlon;I'm+25+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-santos-1b22a8312/)
 
